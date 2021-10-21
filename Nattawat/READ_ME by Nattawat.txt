@@ -24,7 +24,7 @@ Rain has effect to dengue patient or not?
 
 
 ====================Model testing==================================
-1.Linear Regression (original)
+1.Linear Regression (Baseline)
 2.Repeats K-folds Cross Validation
 3.Features selection: Recursive Feature Elimination(RFE)
 4.GridSearchCV 
